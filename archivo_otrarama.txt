@@ -10,9 +10,5 @@ linea9
 linea10
 
 
-<<<<<<< HEAD
-linea14
-=======
 linea14 Modificada
 linea15
->>>>>>> 77afd77 (Modificando linea14 desde otra rama)
